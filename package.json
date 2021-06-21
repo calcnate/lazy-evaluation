@@ -1,0 +1,23 @@
+{
+  "name": "lazy-evaluation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fourkilometers/lazy-evaluation.git"
+  },
+  "author": "pangcongcong <pangcongcong@360.cn> (http://gitlab.pri.ibanyu.com/pangcongcong6431)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fourkilometers/lazy-evaluation/issues"
+  },
+  "homepage": "https://github.com/fourkilometers/lazy-evaluation#readme"
+}
